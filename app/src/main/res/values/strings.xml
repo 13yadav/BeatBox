@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Beat Box</string>
+    <string name="playback_speed">PlayBack Speed</string>
+</resources>
